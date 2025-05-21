@@ -1,0 +1,6 @@
+aiogram>=3.0.0
+SQLAlchemy>=1.4
+aiosqlite
+python-dotenv
+twilio
+uvicorn
